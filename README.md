@@ -18,7 +18,6 @@ We found:
 ## Get the data
 
 * We have [published the data on this GitHub repo here](https://github.com/BBC-Data-Unit/revenge-porn/blob/master/revengedata%20NB%20-%20NOT%20ALWAYS%20POSSIBLE%20TO%20COMPARE%20ALONG%20ROWS%20-%20SEE%20COLUMN%20S%20%20-%20Sheet1.csv). Note that it is not always possible to compare along rows: the final column indicates where this is not appropriate.
-* You can also [get the data in a Google spreadsheet here](https://docs.google.com/spreadsheets/d/1T6bqWcss4JKu7L9LV11VLy-z8FeYPUP42ZW-SNe3Gmw/edit#gid=2041719221)
 
 ## How the story developed
 
